@@ -1,2 +1,2 @@
 # 05_PA4_MuhdIzzan 
-practical assignment 4
+Practical Assignment 4
