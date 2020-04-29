@@ -8,7 +8,7 @@ INTEGRATION TESTING is a level of software testing where individual units are co
 It is conducted by group of programmers
 It is a type of BlackBox testing
 
-Updated by 10_Fazly
+Updated by 27_Raimi
 
 What is System Testing?
 System testing is the execution of the software in its final config.
@@ -23,3 +23,5 @@ Acceptance Testing is to evaluate and validate that the system's funcionalty mee
 Acceptance Testing is conducted by customers and end-users.
 
 It is a type of black box testing.
+
+
