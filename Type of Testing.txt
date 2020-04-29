@@ -1,0 +1,9 @@
+There are different stages for manual testing such as unit testing, integration testing, system testing, and user acceptance testing. Testers use test plans, test cases, or test scenarios to test a software to ensure the completeness of testing.
+
+UNIT TESTING is a level of software testing where individual units/ components of a software are tested.
+It is conducted by independent software testers
+It is a type of WhiteBox testing
+
+INTEGRATION TESTING is a level of software testing where individual units are combined and tested as a group.
+It is conducted by group of programmers
+It is a type of BlackBox testing
