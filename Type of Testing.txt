@@ -7,3 +7,21 @@ It is a type of WhiteBox testing
 INTEGRATION TESTING is a level of software testing where individual units are combined and tested as a group.
 It is conducted by group of programmers
 It is a type of BlackBox testing
+
+Updated by 27_Raimi
+
+What is System Testing?
+System testing is the execution of the software in its final config.
+
+System testing is conducted developer.
+
+It is a type of black box testing.
+
+What is Acceptance Testing?
+Acceptance Testing is to evaluate and validate that the system's funcionalty meets the requirements before final delivery.
+
+Acceptance Testing is conducted by customers and end-users.
+
+It is a type of black box testing.
+
+
